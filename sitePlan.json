@@ -1,0 +1,42 @@
+{
+  "businessName": "Blessed Gift Nig Ltd",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Excellence in Manufacturing, Trusted Across Nigeria",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Welcome to Blessed Gift Nig Ltd - your trusted manufacturing partner in Owerri. We deliver quality products and reliable solutions that meet the highest industry standards. Built on integrity, powered by innovation.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with clean industrial architecture, well-maintained compound with paved roads, green landscaping, Nigerian flag flying, bright daylight, professional commercial photography, sharp focus, vibrant colors showing active production environment in Owerri",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Blessed Gift Nig Ltd is a leading manufacturing company based in Owerri Municipal, Imo State. From our facility at No 2/4 School Road by Okorie Street, we serve clients across Nigeria with commitment to quality, precision, and timely delivery. Our manufacturing processes combine modern technology with skilled craftsmanship to produce products that meet both local and international standards. We pride ourselves on being a reliable partner for businesses seeking consistent quality and professional service in the Nigerian manufacturing sector.",
+      "imagePrompt": "Interior of a clean, organized Nigerian manufacturing floor with workers in safety gear operating modern machinery, quality control stations visible, bright industrial lighting, products being assembled or packaged, professional workspace showcasing productivity and safety standards",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Manufacturing Solutions | We provide comprehensive manufacturing services tailored to meet diverse industrial needs. Our state-of-the-art facility handles production from concept to completion, ensuring quality at every stage.\n\nQuality Assurance | Every product undergoes rigorous quality control processes. We maintain strict standards to ensure consistency and reliability in all our outputs.\n\nCustom Production | We work closely with clients to deliver customized manufacturing solutions that meet specific requirements and industry specifications.\n\nTimely Delivery | Our efficient production systems and logistics ensure your orders are completed and delivered on schedule, every time.",
+      "imagePrompt": "Grid layout of manufacturing processes: close-up of precision machinery in action, quality inspector examining products with measuring tools, warehouse with organized inventory, delivery trucks being loaded, all in a modern Nigerian industrial setting with professional lighting",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with Blessed Gift Nig Ltd today. Our team is available to answer your questions and provide detailed information about our services.\n\nVisit our facility at No 2/4 School Road by Okorie Street, Owerri Municipal, Imo State. Call us or send a WhatsApp message for immediate response. We look forward to partnering with you.",
+      "imagePrompt": "Professional Nigerian business contact scene: modern office reception area with comfortable seating, company signage visible, receptionist at desk with phone and computer, large windows showing Owerri cityscape, warm welcoming atmosphere with plants and corporate decor",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 806 258 1967",
+    "email": "info@blessedgiftnigltd.com",
+    "address": "No 2/4 School Road by Okorie Street, Owerri Municipal, Imo State, Nigeria",
+    "whatsapp": "https://wa.me/2348062581967"
+  }
+}
